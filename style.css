@@ -5,6 +5,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: bisque;
 }
 
 .app {
@@ -13,7 +14,6 @@ body {
     justify-content: center;
     text-align: center;
     padding: 100px;
-    background-color: bisque;
 }
 
 .questions {
